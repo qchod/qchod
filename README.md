@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=color=0:0781A6,10:55A5B8,100:E6E1E1&text=qchod&textBg=false&rotate=1&descAlign=50&descAlignY=50&stroke=BCC4C4&strokeWidth=1&fontColor=ffffff&fontAlign=50&fontAlignY=50&section=header&fontSize=70&reversal=false" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=color=0:0781A6,10:55A5B8,100:E6E1E1&text=qchod&textBg=false&rotate=1&descAlign=50&descAlignY=50&stroke=0B5B8C&strokeWidth=1&fontColor=ffffff&fontAlign=50&fontAlignY=50&section=header&fontSize=70&reversal=false" />
 
 <h3 dir="auto">🌙 Tech Stacks</h3>
 <a href="https://github.com/qchod" target="_blank"><img src="https://img.shields.io/badge/JAVA-0B5B8C?style=flat-square"/></a>
